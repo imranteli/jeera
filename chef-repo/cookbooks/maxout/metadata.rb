@@ -1,0 +1,7 @@
+name 'maxout'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures maxout'
+long_description 'Installs/Configures maxout'
+version '0.1.0'
